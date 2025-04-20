@@ -22,7 +22,7 @@ Java | Spring Boot | Python | AWS | Docker | SQL | Terraform | Kafka | REST/Grap
 
 ### :open_file_folder: Featured Projects
 
-**[ahmad-dev-site](https://ahmad-sanie.github.io/ahmad-dev-site)** – This site. My work, beliefs, and next chapter.
+**[ahmad-dev-site](https://aalsanie.github.io/ahmad-dev-site/)** – This site. My work, beliefs, and next chapter.
 
 ---
 ### :thought_balloon: What I Believe
