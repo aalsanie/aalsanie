@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/aalsanie/aalsanie/blob/main/Headline.jpeg" alt="Ahmad Al-Sanie Banner" width="100%" />
+</p>
+
 # Hey, I'm Ahmad
 
 **SDE II @ Amazon | Architect of Quiet Power | System Builder with Soul**
